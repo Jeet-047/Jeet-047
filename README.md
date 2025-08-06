@@ -18,15 +18,21 @@
 
 ### 🛠️ Languages and Tools
 
+
 <p align="center">
-  <!-- From skillicons.dev (supports most) -->
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,html,css" /> &nbsp;
   <!-- Custom icons with spacing using &nbsp; -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="Tensorflow" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" height="35"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="40"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="40"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Html-1.svg" alt="HTML" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="40"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/GitHub_logo_2013.svg" alt="GitHub" height="35"/> &nbsp;
 </p>
 
 ---
