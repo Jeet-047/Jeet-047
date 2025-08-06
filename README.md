@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Jeet Majumder</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jeet Majumder</h1>
 <h3 align="center">💻 Junior Data Scientist | 🤖 Machine Learning Enthusiast | 🧠 Deep Learning Explorer</h3>
 
 <div align="center">
@@ -31,14 +31,18 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeet-047&theme=monokai&margin-w=10&no-frame=true" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeet-047&show_icons=true&theme=github_dark" alt="Jeet's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeet-047&layout=compact&theme=github_dark" />
 </p>
 
 ---
