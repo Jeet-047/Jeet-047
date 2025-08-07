@@ -24,11 +24,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/TensorFlowLogo.svg" alt="Tensorflow" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" height="25"/> &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="NumPy" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" alt="Pandas" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" height="30"/> &nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Html-1.svg" alt="HTML" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" alt="CSS" height="30"/> &nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt="Git" height="30"/> &nbsp;
