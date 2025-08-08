@@ -7,7 +7,7 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### <img src="https://www.emojiall.com/images/animations/joypixels/128px/man_raising_hand.gif" width="40"/> About Me
 
 - 🧑‍💻 I’m currently working as a **Junior Data Scientist**
 - 🌱 I’m currently exploring **Advanced ML, DL & AI systems**
@@ -16,8 +16,7 @@
 
 ---
 
-### 🛠️ Languages and Tools
-
+### <img src="https://www.tomorrow.city/wp-content/uploads/2023/10/img.gif" width="40px"/> Languages and Tools
 
 <p align="center">
   <!-- Custom icons with spacing using &nbsp; -->
@@ -37,7 +36,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### <img src="https://tryhackme-images.s3.amazonaws.com/user-avatars/5c7e0036030a65b2ba85f1d915c3274c.png" width="40px"/> GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jeet-047&theme=monokai&margin-w=10&no-frame=true" />
@@ -45,7 +44,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### <img src="https://cdn-icons-gif.flaticon.com/17513/17513876.gif" width="40px"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeet-047&show_icons=true&theme=github_dark" alt="Jeet's GitHub Stats" />
@@ -53,7 +52,7 @@
 
 ---
 
-### 🔗 Let's Connect
+### <img src="https://cdn-icons-gif.flaticon.com/17569/17569434.gif" width="40px"/> Let's Connect
 
 <p align="center">
   <a href="mailto:jeet0912majumder@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
